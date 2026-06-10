@@ -1,7 +1,12 @@
-👋 Hi there! I'm Bruno.
+### Bruno Venceslau
 
-I write code for a living. If my open source work or technical help saved you some trouble, feel free to <a href="https://www.buymeacoffee.com/brunomvsouza">buy me a coffee</a> ^^
+Staff Software Engineer — Go & distributed systems behind live video at national scale. Now going deep on agentic AI.
 
-<a href="https://www.buymeacoffee.com/brunomvsouza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+15+ years in backend, 12 of them in Go, the last 8 in high-scale distributed systems. The long version lives at [venceslau.dev](https://venceslau.dev) — the background there is a live Raft-style leader election, if you want to watch a cluster argue with itself.
 
-📫 You can find more places to reach me at <a rel="me" href="https://venceslau.dev">venceslau.dev</a>.
+**Public Go work:**
+
+- [ynab.go](https://github.com/brunomvsouza/ynab.go) — Go client for the YNAB API, 100% resource coverage, used in the wild.
+- [singleflight](https://github.com/brunomvsouza/singleflight) — type-safe generic wrapper around `golang.org/x/sync/singleflight`.
+
+Most of my production work belongs to employers — happy to walk through any of it. Currently building my own agentic tooling on Claude Code; email is on the site.
