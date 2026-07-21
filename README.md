@@ -6,7 +6,7 @@ Staff Software Engineer — Go & distributed systems behind live video at nation
 
 **Public Go work:**
 
-- [ynab.go](https://github.com/brunovenceslau/ynab.go) — Go client for the YNAB API, 100% resource coverage, used in the wild.
+- [ynab.go](https://github.com/brunovenceslau/ynab.go) — complete, contract-tested Go client for the YNAB API. Zero dependencies, every response validated against the vendored OpenAPI spec on live runs.
 - [singleflight](https://github.com/brunovenceslau/singleflight) — type-safe generic wrapper around `golang.org/x/sync/singleflight`.
 
 Most of my production work belongs to employers — happy to walk through any of it. Currently building my own agentic tooling on Claude Code; email is on the site.
